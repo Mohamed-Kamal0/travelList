@@ -18,9 +18,3 @@ Built as part of **The Ultimate React Course** by Jonas Schmedtmann.
 - JavaScript (ES6+)
 - HTML5, CSS3
 
----
-
-## 📂 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/travel-list.git
